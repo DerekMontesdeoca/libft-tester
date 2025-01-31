@@ -1,4 +1,4 @@
-### libft-tester
+# libft-tester
 
 ## Install:
 
