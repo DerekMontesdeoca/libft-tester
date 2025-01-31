@@ -44,6 +44,7 @@ clean:
 
 fclean: clean
 	@rm -f $(NAME) 
+	@rm $(CMOCKA_DIR)
 
 re: fclean all
 
